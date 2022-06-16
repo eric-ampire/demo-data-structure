@@ -1,3 +1,5 @@
+package com.ericampire.demo.datastructure
+
 fun main(args: Array<String>) {
     println("Hello World!")
 
