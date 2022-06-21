@@ -53,6 +53,9 @@ object Sort {
         }
     }
 
+    /**
+     * Insertion sort [2, 4, -2]
+     */
     object Insertion {
         fun insertionSortV1(items: Array<Int>) {
             for (firstUnsortedIndex in 1 until items.size) {
